@@ -48,7 +48,7 @@ Yomitan dictionary format: [themoeway/yomitan](https://github.com/themoeway/yomi
 ---
 
 ## 中文说明
-
+由于Yomitan英文词典比较匮乏，本仓库收集优质的Yomitan英文词频词典，帮助Yomitan英文学习者。
 ### `coca-freq-yomitan.zip` — BNC/COCA 词频词典
 
 - **来源**：[changhongzi/BNC_COCA_EN2CN](https://github.com/changhongzi/BNC_COCA_EN2CN)（`BNC_COCA_lists.csv`）
