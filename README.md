@@ -1,0 +1,1 @@
+# BNC_COCA_EN2CN-Freq-for-Yomitan
